@@ -1,7 +1,7 @@
 ### Hi there 
 
 ### 👋 Hello and welcome to my Github profile.
-#### My name's <u>Thaís</u> and my nickname here is <u>throv</u>!
+#### My name's Thaís and my nickname here is <u>throv</u>!
 
 
 <!--
