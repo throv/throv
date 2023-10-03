@@ -1,7 +1,6 @@
-### Hi there 
-
-### 👋 Hello and welcome to my Github profile.
-#### My name's Thaís and my nickname here is <u>throv</u>!
+### Hi there! 👋 
+#### My name's Thaís Vieira!
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-r-vieira/) [![name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thais.ro.vieira@gmail.com)
 
 
 <!--
